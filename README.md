@@ -9,13 +9,16 @@ C++
 SFML
 
 ## AUTHORS 
-### Code: Marin Martuslović & Marino Linić 
-### Graphics (Icons and Background): Marin Martuslović & Marino Linić 
-### Audio: ORU - Orange Dreamsicle (https://www.youtube.com/watch?v=N0TncAISZiY) 
-### Font: Arial Cyr
-### PROJECT INTENDED FOR: Objektno-orijentirano programiranje
+### Code 
+Marin Martuslović & Marino Linić 
+### Graphics (Icons and Background)
+Marin Martuslović & Marino Linić 
+### Audio
+ORU - Orange Dreamsicle (https://www.youtube.com/watch?v=N0TncAISZiY) 
+### Font
+Arial Cyr
 
-![clicker game](clicker.png)
+![clicker game](https://cdn.discordapp.com/attachments/699719719015546901/814229853494575104/ezgif-1-4c26883bb9fd.gif)
 
 Some of the original icons I created as pixel art:
 ![](clicker/Textures/Icons/Cafe.png)
