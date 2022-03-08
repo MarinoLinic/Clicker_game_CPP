@@ -1,23 +1,24 @@
 # The Clicker game
 Small C++ & SFML project. Clicker game.
 
-### NAME 
+#### NAME 
 Money Clicker
-### LANGUAGE
+#### LANGUAGE
 C++
-### EXTERNAL LIBRARIES 
+#### EXTERNAL LIBRARIES 
 SFML
 
 ## AUTHORS 
-### Code 
+#### Code 
 Marin Martuslović & Marino Linić 
-### Graphics (Icons and Background)
+#### Graphics (Icons and Background)
 Marin Martuslović & Marino Linić 
-### Audio
+#### Audio
 ORU - Orange Dreamsicle (https://www.youtube.com/watch?v=N0TncAISZiY) 
-### Font
+#### Font
 Arial Cyr
 
+## Preview
 ![clicker game](https://cdn.discordapp.com/attachments/699719719015546901/814229853494575104/ezgif-1-4c26883bb9fd.gif)
 
 Some of the original icons I created as pixel art:
