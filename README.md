@@ -1,9 +1,12 @@
 # The Clicker game
 Small C++ & SFML project. Clicker game.
 
-### NAME: Money Clicker
-### LANGUAGE: C++
-### EXTERNAL LIBRARIES: SFML
+### NAME 
+Money Clicker
+### LANGUAGE
+C++
+### EXTERNAL LIBRARIES 
+SFML
 
 ## AUTHORS 
 ### Code: Marin Martuslović & Marino Linić 
